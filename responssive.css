@@ -1,0 +1,47 @@
+/* @media (max-width: 1199.98px) {
+    .card.img-trending {
+        text-align: left;
+        width: 18rem;
+    }
+} */
+@media (max-width: 1024px) {
+
+    /* ==== untuk trending ==== */
+    .card.kolom-store {
+        width: 100% !important;
+    }
+
+    /* ==== untuk trending ==== */
+
+}
+
+@media (max-width: 768px) {
+
+    /* ==== untuk trending ==== */
+    .card.kolom-store {
+        width: 75% !important;
+    }
+
+    .card.kolom-store {
+        margin-left: 2px !important;
+    }
+
+    /* ==== untuk trending ==== */
+
+}
+
+@media (max-width: 576px) {
+
+    /* ==== untuk trending ==== */
+    .card.kolom-store {
+        width: 70% !important;
+        justify-content: center !important;
+    }
+
+    .card.kolom-store {
+        margin-left: 2px !important;
+    }
+
+    /* ==== untuk trending ==== */
+
+}
